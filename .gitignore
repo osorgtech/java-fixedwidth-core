@@ -1,0 +1,8 @@
+target/
+
+pom.xml.releaseBackup
+release.properties
+
+#IntelliJ Editor
+*.iml
+.idea/
