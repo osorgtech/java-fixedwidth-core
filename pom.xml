@@ -4,7 +4,7 @@
 
     <groupId>com.osorgtech.java.utilities.textfileformats.fixedwidth</groupId>
     <artifactId>core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <licenses>
         <license>
@@ -23,7 +23,7 @@
 
     <scm>
         <developerConnection>${git.developerConnection}</developerConnection>
-        <tag>v1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
